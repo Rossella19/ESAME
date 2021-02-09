@@ -143,3 +143,4 @@ stats=time_series_file.daily_stats(time_series)
 #stampo per riga
 for i in stats:
     print(i)
+    
